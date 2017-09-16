@@ -17,4 +17,4 @@ To optimise your own numerical function:
 * [Optional] Modify tuning parameters such as `N`, `DW`, `CR`, `max_iter` and `min_eps`
 
 # Blog post
-To learn more, read the blog post here: http://davinchoo.com/2016/06/26/differential-evolution/
+To learn more, read the blog post here: http://davinchoo.com/post/differentialevolution/
